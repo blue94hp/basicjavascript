@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/blue94hp/basicjavascript/issues"
   },
-  "homepage": "https://github.com/blue94hp/basicjavascript#readme"
+  "homepage": "https://github.com/blue94hp/basicjavascript#readme",
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
 }
