@@ -14,4 +14,4 @@ while (days_in_week.length > 0){
 }*/
 // console.log(days_in_week.shift());
 // console.log(days_in_week.reverse());
-console.log(days_in_week.splice(1));
+console.log(days_in_week.splice(2,1));

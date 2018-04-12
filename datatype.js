@@ -33,6 +33,7 @@ console.log(contact.search(/[0-9]+/));
 
 var iLove = "I love PHP,php";
 console.log(iLove.replace(/PHP/ig,"Nodejs"));
+// console.log(iLove.splice(2,1));
 
 String.prototype.reverse = function () {
     var result = "";
@@ -41,5 +42,5 @@ String.prototype.reverse = function () {
     }
     return result;
 };
-
 console.log("LOVE".reverse());
+console.log(Math.round(Math.random()*100%4));
